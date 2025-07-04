@@ -1,0 +1,17 @@
+body {
+  background-color: #2c2c2c;  /* 暗いグレー */
+  color: #ffffff;             /* 文字を白にして見やすく */
+  font-family: sans-serif;
+  margin: 0;
+  padding: 40px;
+}
+
+h1 {
+  font-size: 3rem; /* 通常1.5remぐらいなので約2倍 */
+}
+
+button {
+  font-size: 2.5rem; /* ボタンの文字も大きく */
+  padding: 1rem 2rem; /* クリックしやすくボタンサイズも大きく */
+  cursor: pointer;
+}
